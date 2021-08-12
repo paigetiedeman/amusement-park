@@ -1,0 +1,38 @@
+body {
+  font-weight: 800;
+  background-color: #f15bb52d;
+}
+.too-tall {
+  color: rgba(8, 204, 8, 0.61);
+  font-style: italic;
+}
+
+h1 {
+  text-align: center;
+  color: #00BBF9;
+}
+
+#below-height {
+  border: 2px solid #FEE440;
+  padding: 8px;
+}
+
+#below-height li {
+  color: #9B5DE5;
+}
+
+#all-rides li {
+  color: #9B5DE5;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  height: auto;
+}
+
+.jumbotron {
+  background-image: url("../img/theme-park.jpg");
+}
